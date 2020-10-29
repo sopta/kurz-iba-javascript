@@ -56,6 +56,7 @@
 
 - Babel https://babeljs.io/
 - Webpack https://webpack.js.org/
+- TypeScript https://www.typescriptlang.org/
 - Když nevím co funguje a ne https://caniuse.com/
 - Rozsáhlá dokumentace JS https://developer.mozilla.org/en-US/docs/Web/JavaScript
 - Ukázka tříd a jejich podpory https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
