@@ -1,9 +1,11 @@
 # Osnova
 <span style="font-size: 20px">
 
-1. Představení
+1. Úvod
 
-2. Přehled / rekapitulace základů Javascriptu
+2. Javascript
+
+3. Přehled / rekapitulace základů Javascriptu
     - základní funkce alert, prompt, console.log
     - datové typy
     - proměnné (primitívní datové typy a práce s nimi)
@@ -14,13 +16,49 @@
     - cykly
     - DOM -> projekt Album
 
-3. Projekt Album
+4. Projekt Album
     - práce s DOMem
     - eventy
     - REST API
     - formuláře
     - localStorage
 
+
+</span>
+
+# Úvod
+
+<span style="font-size: 20px">
+
+- Zdeněk Sotolář
+    - Backend vývojář ve firmě Futured. Makáme na mobilních aplikací a my, backend tým, se staráme o vývoj REST API a DevOps
+    - Kromě backendu i vývoj frontendových aplikací, převážně administrace, dashboardy
+    - Stack: PHP, MySQL, Docker, Golang, Node.js, AWS, Vuejs, React
+    - Lektor, kouč Czechitas
+
+- Jak to bude dnes probíhat?
+
+</span>
+
+# Javascript
+
+<span style="font-size: 20px">
+
+- Světlo světla spatřil roku 1995 jako součást prohlížeče Netscape
+- Původní název LiveScript, později změněn na Javascript, díky rostoucí popularitě programovacího jazyka Java
+- Roku 1997 vznikl standard ECMA-262 popisující jádro jazyka Javascript - Dnes známý jako ECMAScript
+- Nejvejší pokrok v jazyce přišel s verzí ES2015 - ES6 (podpora tříd, rest a spred operátory, moduly)
+- Dnes máme ES7 (ECMAScript 2016), ES8 (ECMAScript 2017), ES9 (ECMAScript 2018). Stále experimentální
+
+</span>
+
+<span style="font-size: 20px">
+
+- Babel https://babeljs.io/
+- Webpack https://webpack.js.org/
+- Když nevím co funguje a ne https://caniuse.com/
+- Rozsáhlá dokumentace JS https://developer.mozilla.org/en-US/docs/Web/JavaScript
+- Ukázka tříd a jejich podpory https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
 
 </span>
 
