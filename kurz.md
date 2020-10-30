@@ -3,9 +3,9 @@
 
 1. Úvod
 
-2. Javascript
+2. JavaScript
 
-3. Přehled / rekapitulace základů Javascriptu
+3. Přehled / rekapitulace základů JavaScriptu
     - základní funkce alert, prompt, console.log
     - datové typy
     - proměnné (primitívní datové typy a práce s nimi)
@@ -45,8 +45,8 @@
 <span style="font-size: 20px">
 
 - Světlo světla spatřil roku 1995 jako součást prohlížeče Netscape
-- Původní název LiveScript, později změněn na Javascript, díky rostoucí popularitě programovacího jazyka Java
-- Roku 1997 vznikl standard ECMA-262 popisující jádro jazyka Javascript - Dnes známý jako ECMAScript
+- Původní název LiveScript, později změněn na JavaScript, díky rostoucí popularitě programovacího jazyka Java
+- Roku 1997 vznikl standard ECMA-262 popisující jádro jazyka JavaScript - Dnes známý jako ECMAScript
 - Nejvejší pokrok v jazyce přišel s verzí ES2015 - ES6 (podpora tříd, rest a spred operátory, moduly)
 - Dnes máme ES7 (ECMAScript 2016), ES8 (ECMAScript 2017), ES9 (ECMAScript 2018). Stále experimentální
 
@@ -61,6 +61,13 @@
 - Rozsáhlá dokumentace JS https://developer.mozilla.org/en-US/docs/Web/JavaScript
 - Ukázka tříd a jejich podpory https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
 
+</span>
+
+<span style="font-size: 20px">
+
+- Použití jako embedded jazyk
+- Server-side jazyk zapomocí Node.js
+- Technologie Flash - ActionScript
 </span>
 
 # Datové typy
