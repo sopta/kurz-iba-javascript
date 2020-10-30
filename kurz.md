@@ -23,7 +23,6 @@
     - formuláře
     - localStorage
 
-
 </span>
 
 # Úvod
@@ -40,10 +39,11 @@
 
 </span>
 
-# Javascript
+# JavaScript
 
 <span style="font-size: 20px">
 
+- Interpretovaný programovací jazyk, netypový, podpora objektového programování (prototype-based)
 - Světlo světla spatřil roku 1995 jako součást prohlížeče Netscape
 - Původní název LiveScript, později změněn na JavaScript, díky rostoucí popularitě programovacího jazyka Java
 - Roku 1997 vznikl standard ECMA-262 popisující jádro jazyka JavaScript - Dnes známý jako ECMAScript
